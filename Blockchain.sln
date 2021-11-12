@@ -22,4 +22,4 @@ Global
 		{311F254C-533D-4FEB-80DF-AC6CED70F7D3}.Release|x86.ActiveCfg = Release|Win32
 		{311F254C-533D-4FEB-80DF-AC6CED70F7D3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
-	GlobalSection(SolutionProperties) = p
+	GlobalSection(SolutionProperties) = pr
