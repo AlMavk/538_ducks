@@ -25,4 +25,4 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolut
+	GlobalSection(ExtensibilityGlobals) = postSolutio
