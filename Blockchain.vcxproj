@@ -143,3 +143,5 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="account.c" />
+    <ClCompile Include="digest.c" />
+    <ClCompile Include="main.c" />
