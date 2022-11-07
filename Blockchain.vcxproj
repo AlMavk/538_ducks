@@ -145,3 +145,5 @@
     <ClCompile Include="account.c" />
     <ClCompile Include="digest.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="sign.c" />
+    <ClCompile Include="utils.c" />
