@@ -147,3 +147,5 @@
     <ClCompile Include="main.c" />
     <ClCompile Include="sign.c" />
     <ClCompile Include="utils.c" />
+  </ItemGroup>
+  <ItemGroup>
