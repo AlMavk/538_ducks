@@ -153,3 +153,8 @@
     <ClInclude Include="common.h" />
     <ClInclude Include="defs.h" />
     <ClInclude Include="digest.h" />
+    <ClInclude Include="env.h" />
+    <ClInclude Include="sign.h" />
+    <ClInclude Include="utils.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
