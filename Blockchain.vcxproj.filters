@@ -23,3 +23,7 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="account.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="digest.c">
+      <Filter>Source Files</Filter>
