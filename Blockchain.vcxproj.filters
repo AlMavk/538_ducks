@@ -27,3 +27,6 @@
     </ClCompile>
     <ClCompile Include="digest.c">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sign.c">
+      <Filter>Source Files</Filter>
