@@ -48,3 +48,8 @@
     <ClInclude Include="account.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="digest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sign.h">
+      <Filter>Header Files</Filter>
