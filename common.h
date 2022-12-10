@@ -4,3 +4,6 @@
 #include <openssl/evp.h>
 #include <openssl/bio.h>
 #include <openssl/err.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdint.h>
