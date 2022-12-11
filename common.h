@@ -12,3 +12,4 @@
 #include <assert.h>
 #include "defs.h"
 #include "env.h"
+#include "utils.h"
