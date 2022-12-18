@@ -12,3 +12,5 @@ uint8_t* digest_hex_2_bin_bulk_to_lendian(uint8_t* const hexmd[], size_t count);
 void digest_hex_pretty_print(uint8_t const hexsig[]);
 
 // merkle tree functions
+int digest_pair_bin_leaves(LeavesPair* lp, uint8_t left[SHA256_DIGEST_LENGTH], uint8_t right[SHA256_DIGEST_LENGTH]);
+int digest_hash_bin_pair_leaves(uint8_t bin_hash_result[SHA256_DIGEST_LENGTH], LeavesPair* const lp);
