@@ -14,3 +14,6 @@ void digest_hex_pretty_print(uint8_t const hexsig[]);
 // merkle tree functions
 int digest_pair_bin_leaves(LeavesPair* lp, uint8_t left[SHA256_DIGEST_LENGTH], uint8_t right[SHA256_DIGEST_LENGTH]);
 int digest_hash_bin_pair_leaves(uint8_t bin_hash_result[SHA256_DIGEST_LENGTH], LeavesPair* const lp);
+int digest_merkle_root(uint8_t merkle_root[SHA256_DIGEST_LENGTH], size_t leaves_number, uint8_t leaves_bin[]); // TODO : � la fin de l'impl�mentation, merkle_root doit �tre [SHA256_DIGEST_LENGTH]
+
+// test binary hash consistency with 7zip
