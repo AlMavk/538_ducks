@@ -1,1 +1,1 @@
-#pragma on
+#pragma onc
