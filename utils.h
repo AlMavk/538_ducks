@@ -1,1 +1,1 @@
-#pragma o
+#pragma on
