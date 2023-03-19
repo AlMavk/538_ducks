@@ -1,4 +1,4 @@
 #pragma once
 #include "common.h"
 
-uint8
+uint8_t* con
