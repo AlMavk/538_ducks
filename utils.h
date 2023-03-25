@@ -1,4 +1,4 @@
 #pragma once
 #include "common.h"
 
-uint8_t* concat(uint8_t* const st
+uint8_t* concat(uint8_t* const strA, ui
